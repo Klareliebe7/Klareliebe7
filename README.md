@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Klareliebe7
-- 👀 I’m interested in machine learning and cyber security
-- 🌱 I’m currently making a internship
-- 💞️ I’m looking to collaborate on any type of machine learning related competitions or projects
+- 👀 I’m interested in machine learning  
+- 🌱 I’m currently working in automotive industry(BYD)
+- 💞️ I’m looking to collaborate or discuss on any electric vehicle algorithm problems 
 - 📫 How to reach me 1st.melchior@gmail.com
 
 <!---
